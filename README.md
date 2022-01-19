@@ -1,2 +1,2 @@
-# dio-progresso
-Anotações de progresso das formações da DIO
+# Progresso
+Anotações de progresso nas formações da [Digital Innovation One](https://dio.me).
