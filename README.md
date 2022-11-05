@@ -6,3 +6,4 @@ Anotações de progresso nas formações da [DIO](https://dio.me).
 
 - [Git & GitHub](doc/git.md)
 - [Desenvolvimento Moderno de Software](doc/concepts.md)
+- [Pensamento Computacional](doc/think.md)
